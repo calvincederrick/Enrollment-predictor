@@ -1,0 +1,41 @@
+Student_ID,Age,Gender,Major,GPA,Study_Hours,Attendance_rate,socioeconomic_Status,Enrollment_Status
+1,18,Male,CS,3.5,10,90%,Medium,Enrolled
+2,22,Female,Math,2.8,5,80%,Low,Needs Support
+3,20,Male,Engineering,3.2,12,95%,High,Enrolled
+4,19,Female,Biology,2.6,4,70%,Low,Needs Support
+5,21,Male,Physics,3.8,15,92%,Medium,Enrolled
+6,23,Female,Chemistry,2.9,6,85%,Medium,Needs Support
+7,22,Male,CS,3.1,8,88%,High,Enrolled
+8,18,Female,Math,2.4,3,60%,Low,Needs Support
+9,21,Male,Biology,3.3,9,91%,High,Enrolled
+10,20,Female,Engineering,3.7,14,94%,Medium,Enrolled
+11,19,Male,Physics,2.7,5,75%,Low,Needs Support
+12,23,Female,Chemistry,3,7,82%,Medium,Enrolled
+13,20,Male,Math,3.4,10,87%,High,Enrolled
+14,18,Female,Biology,2.3,4,65%,Low,Needs Support
+15,22,Male,Engineering,3.6,11,93%,Medium,Enrolled
+16,21,Female,CS,2.5,6,78%,Low,Needs Support
+17,19,Male,Physics,3.9,16,96%,High,Enrolled
+18,23,Female,Math,3,7,85%,Medium,Enrolled
+19,18,Male,Chemistry,2.7,3,72%,Low,Needs Support
+20,20,Female,Engineering,3.2,9,89%,Medium,Enrolled
+21,21,Male,Biology,3.1,8,86%,High,Enrolled
+22,19,Female,CS,2.9,5,76%,Low,Needs Support
+23,22,Male,Physics,3.7,13,92%,Medium,Enrolled
+24,20,Female,Math,2.6,4,80%,Low,Needs Support
+25,18,Male,Biology,3.3,10,90%,High,Enrolled
+26,23,Female,Engineering,3.1,8,88%,Medium,Enrolled
+27,19,Male,Chemistry,2.8,5,75%,Low,Needs Support
+28,21,Female,CS,3.5,12,94%,High,Enrolled
+29,20,Male,Physics,2.9,7,82%,Medium,Needs Support
+30,22,Female,Math,3.6,11,89%,Medium,Enrolled
+31,23,Male,Biology,3.4,9,85%,High,Enrolled
+32,18,Female,Engineering,2.7,4,67%,Low,Needs Support
+33,21,Male,Chemistry,3.2,10,91%,Medium,Enrolled
+34,20,Female,Physics,2.5,6,73%,Low,Needs Support
+35,19,Male,CS,3.9,15,97%,High,Enrolled
+36,22,Female,Biology,3,8,83%,Medium,Enrolled
+37,20,Male,Math,2.6,5,79%,Low,Needs Support
+38,18,Female,Engineering,3.3,10,92%,High,Enrolled
+39,23,Male,Physics,2.9,7,84%,Medium,Needs Support
+40,21,Female,Chemistry,3.5,13,93%,High,Enrolled
